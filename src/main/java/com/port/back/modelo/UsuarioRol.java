@@ -1,4 +1,4 @@
-package com.sistema.examenes.modelo;
+package com.port.back.modelo;
 
 import javax.persistence.*;
 

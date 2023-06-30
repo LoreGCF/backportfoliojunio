@@ -1,7 +1,7 @@
-package com.sistema.examenes.servicios.impl;
+package com.port.back.servicios.impl;
 
-import com.sistema.examenes.modelo.Usuario;
-import com.sistema.examenes.repositorios.UsuarioRepository;
+import com.port.back.modelo.Usuario;
+import com.port.back.repositorios.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

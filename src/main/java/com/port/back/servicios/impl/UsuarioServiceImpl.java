@@ -1,10 +1,10 @@
-package com.sistema.examenes.servicios.impl;
+package com.port.back.servicios.impl;
 
-import com.sistema.examenes.modelo.Usuario;
-import com.sistema.examenes.modelo.UsuarioRol;
-import com.sistema.examenes.repositorios.RolRepository;
-import com.sistema.examenes.repositorios.UsuarioRepository;
-import com.sistema.examenes.servicios.UsuarioService;
+import com.port.back.modelo.Usuario;
+import com.port.back.modelo.UsuarioRol;
+import com.port.back.repositorios.RolRepository;
+import com.port.back.repositorios.UsuarioRepository;
+import com.port.back.servicios.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

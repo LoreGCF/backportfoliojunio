@@ -1,6 +1,6 @@
-package com.sistema.examenes.repositorios;
+package com.port.back.repositorios;
 
-import com.sistema.examenes.modelo.Usuario;
+import com.port.back.modelo.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UsuarioRepository extends JpaRepository<Usuario,Long> {

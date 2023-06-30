@@ -1,4 +1,4 @@
-package com.sistema.examenes.modelo;
+package com.port.back.modelo;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.security.core.GrantedAuthority;

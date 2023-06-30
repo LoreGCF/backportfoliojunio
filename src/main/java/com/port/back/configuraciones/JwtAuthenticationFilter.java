@@ -1,6 +1,6 @@
-package com.sistema.examenes.configuraciones;
+package com.port.back.configuraciones;
 
-import com.sistema.examenes.servicios.impl.UserDetailsServiceImpl;
+import com.port.back.servicios.impl.UserDetailsServiceImpl;
 import io.jsonwebtoken.ExpiredJwtException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

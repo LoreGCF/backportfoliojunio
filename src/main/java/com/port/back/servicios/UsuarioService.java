@@ -1,7 +1,7 @@
-package com.sistema.examenes.servicios;
+package com.port.back.servicios;
 
-import com.sistema.examenes.modelo.Usuario;
-import com.sistema.examenes.modelo.UsuarioRol;
+import com.port.back.modelo.Usuario;
+import com.port.back.modelo.UsuarioRol;
 
 import java.util.Set;
 

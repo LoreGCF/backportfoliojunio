@@ -1,9 +1,9 @@
-package com.sistema.examenes.controladores;
+package com.port.back.controladores;
 
-import com.sistema.examenes.modelo.Rol;
-import com.sistema.examenes.modelo.Usuario;
-import com.sistema.examenes.modelo.UsuarioRol;
-import com.sistema.examenes.servicios.UsuarioService;
+import com.port.back.modelo.Rol;
+import com.port.back.modelo.Usuario;
+import com.port.back.modelo.UsuarioRol;
+import com.port.back.servicios.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

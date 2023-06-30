@@ -1,10 +1,10 @@
-package com.sistema.examenes.controladores;
+package com.port.back.controladores;
 
-import com.sistema.examenes.configuraciones.JwtUtils;
-import com.sistema.examenes.modelo.JwtRequest;
-import com.sistema.examenes.modelo.JwtResponse;
-import com.sistema.examenes.modelo.Usuario;
-import com.sistema.examenes.servicios.impl.UserDetailsServiceImpl;
+import com.port.back.configuraciones.JwtUtils;
+import com.port.back.modelo.JwtRequest;
+import com.port.back.modelo.JwtResponse;
+import com.port.back.modelo.Usuario;
+import com.port.back.servicios.impl.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
